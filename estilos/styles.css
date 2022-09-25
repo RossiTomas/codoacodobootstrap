@@ -1,0 +1,117 @@
+.container-nav {
+    width: 90%;
+    margin: auto;
+}
+.white a{
+    color: white;
+}
+.green a{
+    color: green;
+}
+.grey a{
+    color: grey !important;
+}
+.branding {
+    color: white !important;
+}
+.logocodo {
+    width: 100px;
+}
+.branding {
+    margin-left: -45% !important;
+}
+body {
+    background-color: rgb(66, 58, 58) !important;
+}
+.header {
+    background-color: rgb(66, 58, 58) !important;
+}
+.btn-primary-outline {
+    background-color: transparent !important;
+    border-color: #ccc !important;
+    color: white !important;
+}
+.imagenFondo {
+    
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/img/hawaii.jpg");
+}
+.imagenFondo h1, h3 {
+    color: white;
+}
+.imagenFondo h1 {
+    text-align: end;
+    margin-right: 4rem;
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+.imagenFondo h3 {
+    font-size: 1.4rem;
+    text-align: right;
+    margin-right: 4rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.buttons {
+    margin-left: 25rem;
+}
+.contenedorMain {
+    padding-top: 30%;
+    padding-left: 60%;
+    padding-bottom: 10%;
+}
+.cardsDiv {
+    background-color: white;
+    height: 60rem !important;
+}
+.cardsDiv h1, h4 {
+    text-align: center;
+}
+.titles {
+    padding-top: 3rem;
+}
+.cardsWidth {
+    width: 70%!important;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    padding-top: 3rem;
+}
+.card {
+    width: 25rem !important;
+}
+.honolulu {
+    height: 40rem;
+}
+.honoluluText {
+    padding-top: 2rem;
+}
+.honolulu-btn {
+    margin-top: 1rem !important; 
+}
+.formText {
+    padding-top: 2rem;
+    background-color: white;
+}
+.inputUno {
+    width: 25rem;
+} 
+.inputDos {
+    margin-left: 1rem;
+    width: 25rem;
+}
+.textArea {
+    margin-top: 2rem;
+    width: 51rem !important;
+
+}
+.h6 {
+    padding-top: 1rem;
+}
+.backgrounds {
+    background-color: rgb(24, 82, 129);
+    height: 4rem;
+    margin-top: 2rem;
+}
+.backgrounds nav {
+    margin-top: 0.7rem
+}
